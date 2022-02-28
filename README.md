@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tosarveshwarpati
 - 👀 i’m interested in computational physics.
-- 🌱 i’m currently a research student at quantum electronics and optics division at comenius university in bratislava.
+- 🌱 i’m currently a research student at quantum electronics and optics division at Univerzita Komenského v Bratislave.
 - 💞️ i’m looking to collaborate on 
 - 📫 How to reach me ...
 
